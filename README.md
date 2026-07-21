@@ -1,385 +1,443 @@
-This repository contains a curated collection of end-to-end product case studies across consumer tech, marketplaces, SaaS, mobility, and health-tech domains.
+Below is a polished, GitHub-friendly version of your README with the **Razorpay case study** added. It is structured for readability, ATS visibility, and recruiter appeal without unnecessary decorations or emojis.
 
-Each case study reflects how I think as a Product Manager:
+---
 
-#Problem-first approach
+# Product Management Case Studies
 
-#Data + user research backed decisions
+This repository contains a curated collection of end-to-end product case studies across consumer tech, fintech, marketplaces, SaaS, mobility, and health-tech domains.
 
-#First-principles thinking
+Each case study reflects how I approach Product Management through:
 
-#Metrics-driven prioritization (NSM, OKRs, KPIs)
+* Problem-first thinking
+* User research and data-driven decision making
+* First-principles thinking
+* Metrics-driven prioritization (North Star Metrics, OKRs, KPIs)
+* Product strategy and experimentation
+* Business impact alignment
 
-#Experimentation & rollout strategy
+These case studies simulate real-world product challenges and demonstrate my ability to:
 
-#Business impact alignment
+* Break down ambiguous business problems
+* Conduct qualitative and quantitative research
+* Design scalable product strategies
+* Prioritize using product frameworks
+* Define measurable success metrics
+* Balance user value with business growth
+* Build product roadmaps and GTM strategies
 
-These case studies simulate real-world PM challenges and showcase my ability to:
+---
 
-Break down ambiguous problems
+# Case Studies
 
-Design scalable product strategies
+## 1. Zepto Daily – Subscription Retention & Trust Redesign
 
-Align user value with business growth
+**File:** `Zepto Subscription`
 
-Define measurable success frameworks
+### Problem
 
-Case Studies Overview
+Declining daily active users and subscription trust due to:
 
-1. Zepto Daily – Subscription Retention & Trust Redesign
+* Hidden charges
+* Hygiene concerns
+* Accidental subscriptions
+* Poor pricing transparency
 
-File: Zepto Subscription
+### My Approach
 
-Problem
-Declining daily active users and trust erosion due to:
-Hidden charges,
-Hygiene concerns
-Forced/unintended orders,
-Weak subscription clarity,
+* User surveys and 1:1 interviews
+* Persona creation and JTBD analysis
+* Identified trust as the primary retention driver
+* Redesigned subscription transparency
+* Built UX improvements through prototyping
 
-My Approach:
-Conducted surveys + 1:1 interviews,
-Defined user personas & JTBD,
-Identified trust as core retention driver,
-Designed subscription transparency model,
-Built UX improvements via prototype,
-Key Product Thinking
+### Key Insight
 
-Shift from “discount-driven subscription” → “trust-driven recurring habit”
+Shifted the subscription value proposition from **discount-driven** to **trust-driven**, making transparency and reliability the primary retention levers.
 
-Focus on hygiene + pricing clarity as retention levers
+### Success Metrics
 
-Reduced churn risk through experience redesign
+* Subscription conversion rate
+* 30-day retention
+* Auto-delivery activation rate
+* Trust perception score
 
-Metrics Defined:
-Subscription conversion rate,
-30-day retention,
-Auto-delivery activation rate,
-Trust perception score
+---
 
-2. Zepto – On-Demand Printing Service (0 → 1 Opportunity)
+## 2. Zepto – On-Demand Printing Service (0 → 1 Opportunity)
 
-File: Zepto Daily
+**File:** `Zepto Daily`
 
-Problem:Can Zepto expand into document printing delivery in Tier-1 cities?
+### Problem
 
-My Approach:
-TAM–SAM–SOM analysis,
-Porter’s 5 Forces,
-Competitor benchmarking (Local Xerox, Blinkit, Printo),
-10+ user interviews,
-Security & trust mapping
+Can Zepto expand into document printing delivery across Tier-1 cities?
 
-Insight:
-The real barrier is NOT convenience — it’s data privacy trust.
-Strategic Recommendation,
-Build the service around 4 pillars:
+### My Approach
 
-i. Speed (<30 mins delivery)
-ii. Data deletion guarantee
-iii. Transparent pricing
-iv. Print quality assurance
+* TAM, SAM, SOM analysis
+* Porter’s Five Forces
+* Competitor benchmarking
+* User interviews
+* Security and privacy research
 
-Business Thinking
-Students = price-sensitive.
-Professionals = urgency premium.
-Trust layer = differentiation.
+### Key Insight
 
-3.Uber Reserve – Reliability & Guaranteed Experience Strategy
+Convenience is not the biggest barrier.
 
-File: Uber Reserve
+**Trust and document privacy determine adoption.**
 
-Problem:Users are not booking cabs in advance despite availability of Uber Reserve.
+### Strategic Recommendation
 
-Root Cause Identified,
-Driver cancellations,
-Reliability doubts,
-Safety concerns,
-Premium price without premium assurance
+Built the service around:
 
-Solution Framework:
+* Delivery under 30 minutes
+* Data deletion guarantee
+* Transparent pricing
+* Print quality assurance
 
-i.Guaranteed arrival or cashback.
+### Business Thinking
 
-ii.Dedicated Reserve driver pool.
+Students optimize for price while professionals optimize for urgency.
 
-iii.Early driver details visibility.
+Trust becomes the long-term competitive advantage.
 
-iv.Free cancellation window.
+---
 
-v.Premium positioning via Uber Black.
+## 3. Uber Reserve – Reliability & Guaranteed Experience Strategy
 
-Core Insight:
-Reserve is not about booking early.
-It’s about certainty + reduced anxiety.
+**File:** `Uber Reserve`
 
-Key Metrics:
+### Problem
 
-i.Reserve booking conversion rate.
+Low adoption of Uber Reserve despite availability.
 
-ii.Cancellation rate.
+### Root Causes
 
-iii.On-time pickup %.
+* Driver cancellations
+* Reliability concerns
+* Safety concerns
+* Premium pricing without premium experience
 
-iv.Cashback payout frequency
+### Solution
 
-4.Twitter/X – Growth Loop Optimization
+* Guaranteed arrival or cashback
+* Dedicated Reserve driver pool
+* Early driver visibility
+* Flexible cancellation
+* Premium positioning
 
-File: Twitter-Growth-Loops
+### Key Insight
 
-Objective
+Reserve is not about booking earlier.
 
-Strengthen high-impact viral loop to improve:
-Activation,
-Retention,
-Referral,
-Identified Gap,
-Viral tweets generate impressions but low downstream engagement.
+It is about reducing uncertainty.
 
-Proposed Enhancements:
+### Success Metrics
 
-i.Smart comments preview
+* Reserve booking conversion
+* Cancellation rate
+* On-time pickup rate
+* Cashback frequency
 
-ii.Click-to-view before comment
+---
 
-iii.AI-powered topic filters
+## 4. Twitter (X) – Growth Loop Optimization
 
-iv.Strategic Thinking
+**File:** `Twitter-Growth-Loops`
 
-Shift from:Impression-heavy loop
+### Objective
 
-To:
-Conversation-depth loop,
-Expected Impact,
-Higher engagement per impression,
-Increased reply-chain depth,
-Improved DAU retention,
-Creator incentive alignment
+Increase activation, engagement, referral, and retention.
 
-5.VitaFit (FitPulse) – Retention via Gamification
+### Problem
 
-File: Vita Fit PRD
+Tweets generate impressions but fail to create deep conversations.
 
-Problem:Declining retention due to low motivation & weak community.
+### Solution
 
-Solution:
+* Smart comment previews
+* Click-to-view comments
+* AI-powered topic filters
 
-Community + Gamification Layer:
-Badges,
-Streaks,
-Leaderboards,
-Social feed,
-Retention Strategy
+### Product Thinking
 
-Create a habit loop around fitness:Trigger → Workout → Reward → Social validation → Repeat
+Shifted the product from an **impression-driven growth loop** to a **conversation-driven growth loop**.
 
-KPIs Defined:
+### Expected Impact
 
-i.7-day retention
+* Higher engagement per impression
+* Increased reply-chain depth
+* Better creator incentives
+* Improved retention
 
-ii.30-day retention
+---
 
-iii.Community adoption %
+## 5. VitaFit (FitPulse) – Gamified Retention Strategy
 
-iv.Churn rate reduction
+**File:** `Vita Fit PRD`
 
-v.LTV uplift
+### Problem
 
-6.Zomato – Retention & Habit Formation Strategy
+Low long-term retention caused by weak motivation and community engagement.
 
-File: Zomato User Study
+### Solution
 
-Objective:
-Increase repeat ordering & build habit formation in Tier-1 users.
+Built a gamified community through:
 
-Approach:
-Funnel analysis,
-Persona segmentation,
-Survey-based pain points,
-Gamified retention program
+* Streaks
+* Badges
+* Leaderboards
+* Social feed
+* Community challenges
 
-Key Proposal:
+### Product Strategy
 
-i.“Zomato Streak Rewards”
+Designed a habit loop:
 
-ii.Gamify ordering frequency similar to:
+Trigger → Workout → Reward → Social Validation → Repeat
 
-iii.Domino’s 6th pizza free model
+### KPIs
 
-iv.Habit reinforcement loops
+* 7-day retention
+* 30-day retention
+* Community adoption
+* Churn reduction
+* LTV improvement
 
-Defined North Star Metric:Monthly Active Retained Users (3+ orders/month + NPS ≥ 8.5)
+---
 
--> OKR Structure
+## 6. Zomato – Habit Formation & User Retention
 
--> Reward Experience Excellence
+**File:** `Zomato User Study`
 
--> Delivery Excellence
+### Objective
 
--> Discovery Excellence
+Increase repeat ordering among Tier-1 users.
 
-7.Meal Planning Tool – UX + Habit System Design
+### My Approach
 
-File: Meal Planning Tool
+* Funnel analysis
+* Persona segmentation
+* User surveys
+* Retention program design
 
-Problem:Meal planning is stressful and time-consuming.
+### Solution
 
-Approach:
+Introduced **Zomato Streak Rewards** to reinforce ordering habits through gamification.
 
-i.UUD Framework (Usable, Useful, Delightful)
+### North Star Metric
 
-ii.User flows
+Monthly Active Retained Users
 
-iii.Edit/cancel flexibility
+(Users placing 3+ monthly orders with NPS ≥ 8.5)
 
-iv.Calorie tracking loop
+### Product Focus
 
-v.Custom dish creation
+* Delivery Excellence
+* Reward Experience
+* Discovery Experience
 
-vi.Product Thinking
+---
 
-vii.Reduce decision fatigue + increase weekly consistency.
+## 7. Meal Planning Tool – UX & Habit System Design
 
-Core Value:Time-saving + personalization + nutrition tracking
+**File:** `Meal Planning Tool`
 
-8.Paytm Mobile Recharge – “Never Miss a Recharge” (Capstone)
+### Problem
 
-File: Paytm-MobileRecharge-CaseStudy
+Meal planning is difficult, repetitive, and time-consuming.
 
-Context:
+### Approach
 
-i.Paytm wants to become the default prepaid recharge app in Tier 1 & Tier 2 cities.
+* UUD Framework
+* User journey mapping
+* Flexible editing
+* Nutrition tracking
+* Personalized meal creation
 
-ii.Despite high user base, users:
+### Product Thinking
 
-iii.Switch apps during recharge
+Reduce decision fatigue while improving weekly consistency.
 
-iv.Choose faster flows (Google Pay)
+### Core Value
 
-v.Don’t trust reward systems
+Time-saving through intelligent personalization.
 
-vi.Don’t build recharge habit
+---
 
-vii/Recharge is frequent but not habitual.
+## 8. Paytm Mobile Recharge – Never Miss a Recharge
 
-Core Problem
+**File:** `Paytm-MobileRecharge-CaseStudy`
 
-Recharge experience is:
-Reactive,
-Cognitively heavy,
-Unpredictable,
-Non-habit forming,
+### Problem
 
-Users prioritize:Speed + Certainty over Brand Loyalty
+Despite strong market presence, Paytm struggles to become users' default recharge platform.
 
-Research Insights 
+### Research Insights
 
-Key findings:
+Major friction points included:
 
-i.Plan selection = #1 friction (decision fatigue)
+* Home screen clutter
+* Plan selection fatigue
+* Payment trust
+* Lack of recharge habit
 
-ii.30–35% drop at awareness stage (home screen clutter)
+### Personas
 
-iii.15–20% drop at plan selection
+* Speed-first professionals
+* Family managers
+* Budget-conscious users
 
-iv.20–25% drop at payment stage (trust anxiety)
+### Product Strategy
 
-v.~50% churn before next recharge cycle
+Designed two self-reinforcing growth loops.
 
-vi.Guaranteed cashback preferred over probabilistic rewards
+### Growth Loop 1
 
-Personas Identified:
+Universal Coins
 
-i.Speed-first urban professional
+Bill Payment → Earn Coins → Recharge Discount → More Bill Payments
 
-ii.Value-seeking family manager
+### Growth Loop 2
 
-iii.Rural budget maximizer
+UPI Lite Auto Top-up
 
-iv.Each segment had different triggers but same need:
+Enable Auto Top-up → Stay Connected → Automatic Recharge → Repeat
 
-“Make recharge automatic and trustworthy.”
+### North Star Metric
 
-Solution Strategy:
+Users completing:
 
-Instead of optimizing UI alone, I built two self-reinforcing growth loops:
+* Auto Top-up via UPI Lite
+* Recharge using Universal Coins
 
-Loop 1: Universal Coins → Recharge Habit Loop
+### Product Thinking
 
-From page 16 & 21:
+Recharge should become automatic instead of reactive.
 
-Bill Payment → Earn Coins → Recharge Discount → Savings → More Bill Payments
+---
 
-Key idea:
+## 9. Razorpay – Multi-Product Merchant Adoption Strategy
 
-Convert cashback into usable recharge currency
+**File:** `Razorpay Growth Plan`
 
-Show real monetary value (not abstract points)
+### Problem
 
-Restrict redemption to recharge → increase stickiness
+Although Razorpay leads India's payment gateway market, most merchants continue using only the Payment Gateway product, resulting in low adoption of RazorpayX, Capital, POS, and Platform APIs. Merchant onboarding friction, limited product awareness, and developer integration challenges slow long-term growth. 
 
-Loop 2: UPI Lite Auto-Topup → Continuity Loop
+### My Approach
 
-Enable Auto-Topup → Stay Connected → More Usage → Auto-Recharge → Trust → Repeat
+* Conducted primary research with 12 merchant interviews
+* Analyzed merchant reviews from G2 and Trustpilot
+* Surveyed active and inactive merchants
+* Created four merchant personas and Jobs-to-be-Done
+* Mapped the end-to-end merchant adoption funnel
+* Prioritized product opportunities using the RICE framework
+* Built and validated clickable prototypes with merchants  
 
-Core insight:
+### Key Insights
 
-Users don’t want better recharge.
-They want to never think about recharge.
+Research revealed that merchants were primarily struggling with:
 
-Unit Economics Thinking:
+* Lack of transparency around fund holds
+* KYC and onboarding friction
+* Poor awareness of Razorpay's product ecosystem
+* Developer integration complexity
+* Opaque access to business credit  
 
-i.5% coins issued on high-margin bill payments
+### Proposed Solutions
 
-ii.Coins redeemed only for recharge
+Developed five strategic product opportunities:
 
-iii.Commission earned on recharge = 2–3%
+* Guided Go-Live Wizard
+* Developer Observability Suite
+* Pre-Approved Credit Dashboard
+* Merchant Trust & Risk Center
+* No-Code Payout Builder
 
-iv.Redemption capped → controlled liability
+Using RICE prioritization, the highest-impact initiatives selected were:
 
-v.Coins = deferred cost + engagement driver
+* Guided Go-Live Wizard
+* Developer Observability Suite 
 
-Flywheel:
+### Product Strategy
 
-Credit card spend → Coins → Recharge redemption → Commission → Retention → More spend
+Focused on reducing **Time-to-First-Rupee** by:
 
-North Star Metric 
+* Simplifying onboarding
+* Accelerating merchant activation
+* Improving developer experience
+* Increasing multi-product adoption through contextual onboarding
+* Creating self-reinforcing growth loops instead of one-time campaigns 
 
-Unique users in last 30 days who:
-Completed ≥1 Auto-Topup via UPI Lite
-OR
-Redeemed coins for recharge
+### Go-to-Market Strategy
 
-Why this works:
-Captures habit,
-Captures monetization,
-Captures retention,
-Captures automation adoption
+Designed a phased rollout:
 
+* Closed beta with new merchants
+* Gradual rollout to all new sign-ups
+* Partner ecosystem activation
+* Continuous user feedback and experimentation
 
+Each rollout phase included clearly defined success metrics and rollback plans. 
 
+### North Star Metric
 
+**Activated Merchants in 48 Hours**
 
-🛠 Tools Used:
-SurveyMonkey,
-User Interviews (Zoom / WhatsApp),
-Lovable (Prototyping),
-Funnel modeling,
-Public financial reports,
-Competitive benchmarking,
+New merchants completing KYC and processing their first successful live payment within 48 hours. 
 
+### Success Metrics
 
+Leading Indicators
 
- 
-->Let’s Connect
+* Wizard completion rate
+* Integration success rate
+* AI assistant resolution rate
+* Webhook replay usage
 
-If you're hiring for:Product Manager,
-Growth PM,
-Platform PM,
-Consumer Tech PM,
+Lagging Indicators
 
-I would love to connect and discuss how I can add value.
+* KYC to Live Payment conversion
+* Time-to-Integration (TTI)
+* Day-7 merchant retention
+* Developer NPS
+* Multi-product adoption rate
+* Support ticket reduction 
 
-hrithikkumarsingh4005@gmail.com
+---
 
+# Tools Used
 
+Across these case studies, I have leveraged:
+
+* User Interviews
+* SurveyMonkey
+* Google Forms
+* Lovable
+* Figma
+* Mixpanel
+* Public financial reports
+* Funnel analysis
+* Competitive benchmarking
+* JTBD Framework
+* RICE Prioritization
+* OKRs & North Star Metrics
+* Cohort and Retention Analysis
+
+---
+
+# Let's Connect
+
+If you're hiring for roles such as:
+
+* Product Manager
+* Associate Product Manager
+* Growth Product Manager
+* Platform Product Manager
+* Product Strategy
+* Consumer Tech Product Manager
+* FinTech Product Manager
+
+I would be happy to connect and discuss how I can contribute.
+
+**Email:** [hrithikkumarsingh4005@gmail.com](mailto:hrithikkumarsingh4005@gmail.com)
